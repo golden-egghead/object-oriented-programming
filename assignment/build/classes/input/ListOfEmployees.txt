@@ -1,0 +1,20 @@
+1,D01,Nguyen Dinh Minh Khoi,Run,1,5000000
+2,D02,Pham Le Anh Khoa,Fly,3,6000000
+3,T01,Vu Bao Dang Khoa,0.2,AT,3000000
+4,T02,Truong Pham Thao Mi,0,MT,2000000
+5,D03,Tran Tuan Kiet,Run,7,12000000
+6,D04,To Quoc Bao,Walk,3,L,0.3,10000000
+7,D05,Tran Bao Tin,Jump,3,L,0.1,10000000
+8,D06,Le Van Nam,Jump,1,8000000
+9,T03,Pham Thi Nhu,0.3,AT,6000000
+10,T04,Nguyen Duy An,0.5,MT,5000000
+11,D07,Nguyen Quoc Tin,Fly,5,L,0.2,15000000
+12,D08,Dung Cam Quang,Run,3,L,0.2,13000000
+13,D09,Nguyen Quang Duy,Walk,5,10000000
+14,D10,Dang Thanh Tu,Run,2,9000000
+15,D11,Huynh Tan Hung,Fly,6,12000000
+16,T05,Vu Thi Hanh,0.2,MT,4000000
+17,T06,Truong My Lien,0.1,AT,7000000
+18,T07,Do Thi Nhan,0.4,AT,8000000
+19,D12,Tran Duc Minh,Walk,3,9000000
+20,D13,Nguyen Thanh Quan,Walk,5,10000000

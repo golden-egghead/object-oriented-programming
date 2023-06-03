@@ -1,0 +1,13 @@
+D01,C,C#,C++
+D02,C,Java
+D03,Java,Java Script
+D04,C,C++
+D05,Java,C#
+D06,PHP,Ruby
+D07,C,Golang
+D08,C++,Java
+D09,Java,PHP,Java Script
+D10,Java
+D11,Golang,Swift
+D12,C,Java,PHP
+D13,C++,Java,PHP
